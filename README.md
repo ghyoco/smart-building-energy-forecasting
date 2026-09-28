@@ -4,7 +4,7 @@
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-FF6F00?logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 [![XGBoost](https://img.shields.io/badge/XGBoost-Ensemble-2DB84D)](https://xgboost.readthedocs.io/)
 [![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE.md)
 
 An empirical research study and benchmarking framework comparing deep sequence modeling (**Stacked LSTM**) against a gradient-boosted tree ensemble (**XGBoost**) for short-term whole-building load forecasting using the public **CU-BEMS** smart building dataset.
 
@@ -195,22 +195,7 @@ This research was conducted as part of the **Research Methodology** curriculum a
 
 ---
 
-## 📄 Citation
-
-If you use this benchmark, code, or methodology in your work, please cite:
-
-```bibtex
-@article{wijaya2026comparative,
-  title={Comparative Analysis of LSTM and a Traditional Machine Learning Model for Short-Term Energy Consumption Forecasting in Smart Buildings},
-  author={Wijaya, Giovanni August Immanuel and Diana and Tanoe, Karel Nathanael and Priccilia, Shania},
-  journal={School of Computer Science, Bina Nusantara University},
-  year={2026}
-}
-```
-
----
-
 ## 📜 License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE.md).
 The CU-BEMS dataset is subject to its original data license provided by the dataset authors (Chulalongkorn University / Scientific Data).
