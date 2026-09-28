@@ -98,7 +98,7 @@ Naive Persistence Baseline   Stacked 3-Layer LSTM        Flattened XGBoost
 ```
 
 ### 1. Dataset
-- **Benchmark:** [CU-BEMS Dataset](https://www.kaggle.com/datasets/claytonmiller/cubems-smart-building-energy-and-iaq-data) (Chulalongkorn University Building Energy Management System).
+- **Benchmark:** [CU-BEMS Dataset](https://www.kaggle.com/datasets/claytonmiller/cubems-smart-building-energy-and-iaq-data) (Chulalongkorn University Building Energy Management System). Originally published in [[1]](#references).
 - **Scope:** 7-floor academic office building in Bangkok, Thailand over 18 continuous months (July 1, 2018 – December 31, 2019).
 - **Target Variable:** `Total_kW` (30-minute sum of active power loads across all floors, 26,352 records).
 
@@ -192,6 +192,14 @@ This research was conducted as part of the **Research Methodology** curriculum a
 - **Diana** — Project supervision, methodology review ([diana@binus.edu](mailto:diana@binus.edu))
 - **Karel Nathanael Tanoe** — Conceptualization, research design, data validation, manuscript review ([karel.tanoe@binus.ac.id](mailto:karel.tanoe@binus.ac.id))
 - **Shania Priccilia** — Project supervision, academic advising, result validation ([shania.priccilia@binus.ac.id](mailto:shania.priccilia@binus.ac.id))
+
+---
+
+## 📚 References
+
+<a id="references"></a>
+
+[1] Pipattanasomporn, M., Chitalia, G., Songsiri, J., Aswakul, C., Pora, W., Suwankawin, S., Audomvongseree, K., & Hoonchareon, N. (2020). CU-BEMS, smart building electricity consumption and indoor environmental sensor datasets. *Scientific Data*, 7(1). https://doi.org/10.1038/s41597-020-00582-3
 
 ---
 
