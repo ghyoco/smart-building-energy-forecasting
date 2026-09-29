@@ -205,5 +205,8 @@ This research was conducted as part of the **Research Methodology** curriculum a
 
 ## 📜 License
 
-This project is licensed under the [MIT License](LICENSE.md).
-The CU-BEMS dataset is subject to its original data license provided by the dataset authors (Chulalongkorn University / Scientific Data).
+Everything in this repository is licensed under the MIT License (see 
+LICENSE.md), except the contents of /Paper/.
+
+The manuscript in /Paper/ is © 2026 IEEE and is shared under IEEE's author 
+self-archiving policy. It is not covered by the MIT license.
