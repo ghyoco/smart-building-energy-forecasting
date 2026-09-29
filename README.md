@@ -125,8 +125,8 @@ To eliminate data leakage, rolling and lag features are shifted by at least 1 st
 
 ```text
 .
-├── Comparative Analysis of LSTM and a Traditional Machine Learning Model...docx # Academic research paper
-├── CU-BEMS smart building energy and IAQ dataset/                               # Raw sensor dataset (git-ignored)
+├── Paper/
+│   ├── Comparative Analysis of LSTM and a Traditional Machine Learning Model...docx # Academic research paper       
 ├── saved_cv/
 │   ├── lstm_cv_metrics.csv       # Fold-level cross-validation results for LSTM
 │   └── xgb_cv_metrics.csv        # Fold-level cross-validation results for XGBoost
@@ -146,6 +146,7 @@ To eliminate data leakage, rolling and lag features are shifted by at least 1 st
 ├── source_code/
 │   └── Forecasting_Comparison.ipynb # Complete reproducible Jupyter Notebook
 ├── .gitignore                    # Git ignore file
+└── LICENSE.md                    # MIT License file    
 └── README.md                     # Project documentation
 ```
 
